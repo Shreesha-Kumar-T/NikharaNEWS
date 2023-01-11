@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/NikharaNEWS/static/css/main.abd64e84.css",
+    "main.js": "/NikharaNEWS/static/js/main.f9fc0f1c.js",
+    "static/js/787.4c026eef.chunk.js": "/NikharaNEWS/static/js/787.4c026eef.chunk.js",
+    "static/media/spinner.gif": "/NikharaNEWS/static/media/spinner.4eb6b9ea05ea774c2344.gif",
+    "static/media/N.jpg": "/NikharaNEWS/static/media/N.ff34cbf951e3873588ac.jpg",
+    "index.html": "/NikharaNEWS/index.html",
+    "main.abd64e84.css.map": "/NikharaNEWS/static/css/main.abd64e84.css.map",
+    "main.f9fc0f1c.js.map": "/NikharaNEWS/static/js/main.f9fc0f1c.js.map",
+    "787.4c026eef.chunk.js.map": "/NikharaNEWS/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.f9fc0f1c.js"
+  ]
+}
